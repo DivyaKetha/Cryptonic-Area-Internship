@@ -1,4 +1,4 @@
-#PROJECT 03 · WEB APP SECURITY
+# PROJECT 03 · WEB APP SECURITY
 Vulnerability Assessment & Professional Reporting
 
 # SQL Injection — WHERE Clause Bypass (PortSwigger Lab Write-up)
