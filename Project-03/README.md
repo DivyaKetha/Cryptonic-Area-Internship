@@ -1,3 +1,6 @@
+#PROJECT 03 · WEB APP SECURITY
+Vulnerability Assessment & Professional Reporting
+
 # SQL Injection — WHERE Clause Bypass (PortSwigger Lab Write-up)
 
 Vulnerability assessment report documenting a SQL Injection finding in the product category filtering feature of a PortSwigger Web Security Academy lab environment.
