@@ -29,14 +29,14 @@ https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
 | File | Description |
 |---|---|
 | `Vulnerability_Assessment_Report.pdf` | Full vulnerability assessment report, including PoC screenshots, CVSS scoring, root cause analysis, and remediation recommendations |
-| `Screenshots` | Full vulnerability assessment report, including PoC screenshots, CVSS scoring, root cause analysis, and remediation recommendations |
+| `Screenshots` | Screenshots of reproduction steps |
 
 ## Report Sections
 
 1. Executive Summary
 2. Scope & Methodology
 3. Vulnerability Analysis (classification, root cause, impact, affected assets, CVSS score)
-4. Proof of Concept (testing environment, reproduction steps, expected vs. observed results)
+4. Proof of Concept (testing environment, reproduction steps, expected vs. actual results)
 5. Remediation (parameterized queries, defense-in-depth controls, verification steps)
 
 ## Disclaimer
