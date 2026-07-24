@@ -1,3 +1,5 @@
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/bf196c22-6d47-4bbc-81b7-465c86511df9" />
+
 # SQL Injection — WHERE Clause Bypass (PortSwigger Lab Write-up)
 
 Vulnerability assessment report documenting a SQL Injection finding in the product category filtering feature of a PortSwigger Web Security Academy lab environment.
