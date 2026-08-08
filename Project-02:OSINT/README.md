@@ -7,18 +7,20 @@ Public data, private conclusions — an Open Source Intelligence investigation o
 
 Investigate a target website using publicly available OSINT resources only — no logins, no scanning, no touching anything not meant to be public — and turn the findings into a professional intelligence report.
 
-## | Category | Findings |
-|----------|----------|
-| **Domain Info** | • Registrar: [Insert]<br>• Registration Date: [Insert]<br>• Expiry Date: [Insert]<br>• Domain Status: [Insert] |
-| **WHOIS / RDAP** | • Ownership: [Public/Privacy Protected]<br>• Registrant: [Insert]<br>• DNSSEC: [Signed/Unsigned]<br>• Privacy Service: [Yes/No] |
-| **DNS Records** | • A/AAAA: [Insert IPs]<br>• NS: [Insert]<br>• TXT: [Insert SPF/DKIM/DMARC]<br>• SOA: [Insert]<br>• MX: [Insert] |
-| **Hosting** | • Provider: [Insert]<br>• ASN: [Insert]<br>• CDN: [Insert]<br>• Edge Network: [Yes/No] |
-| **SSL/TLS** | • Issuer: [Insert]<br>• Validity: [Insert Dates]<br>• Certificate Type: [DV/OV/EV]<br>• CAA Policy: [Configured/Missing]<br>• Wildcard: [Yes/No] |
-| **Security Headers** | • CSP: [Configured/Missing]<br>• HSTS: [Enabled/Disabled]<br>• X-Frame-Options: [DENY/SAMEORIGIN/ALLOW]<br>• X-Content-Type-Options: [nosniff/Missing]<br>• Referrer-Policy: [Configured/Missing] |
-| **Tech Stack** | • Framework: [Insert]<br>• Web Server: [Insert]<br>• CMS: [Insert]<br>• Analytics: [Insert] |
-| **Subdomains** | • Discovered: [Count]<br>• Notable: [List]<br>• Source: [CT logs/Passive DNS/Archive]<br>• Active: [List] |
-| **robots.txt / sitemap** | • robots.txt: [Present/Missing]<br>• Disallowed: [List paths]<br>• Sitemap: [Present/Missing]<br>• Exposed Paths: [List if found] |
-| **Reputation** | • Trust Score: [High/Medium/Low]<br>• Malware: [Clean/Flagged]<br>• Phishing: [Clean/Reported]<br>• Blacklists: [Not listed/Listed] |
+## 
+
+| Category | What I Looked For |
+|----------|-------------------|
+| Domain Info | Registrar, registration/expiry dates, domain status |
+| WHOIS / RDAP | Ownership records, privacy status, DNSSEC |
+| DNS Records | A, AAAA, NS, TXT, SOA, MX |
+| Hosting | Provider, ASN, edge/CDN setup |
+| SSL/TLS | Issuer, validity, certificate scope, CAA policy |
+| Security Headers | CSP, HSTS, X-Frame-Options, and more |
+| Tech Stack | Framework, CDN, hosting platform |
+| Subdomains | Certificate Transparency, passive DNS, archive search |
+| robots.txt / sitemap.xml | Crawl rules, disclosed paths, indexed pages |
+| Reputation | Trust score, malware/phishing checks |
 
 
 ## 🛠️ Toolkit
