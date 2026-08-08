@@ -57,3 +57,7 @@ Recommendations
 ## 🧠 What I Learned
 
 OSINT depends on cross-checking multiple free tools — no single source gives the full picture. A wildcard SSL certificate can hide subdomains from tools like crt.sh, and testing the wrong URL (a redirect instead of the live page) can quietly produce misleading results. Most of all: a surprising amount of security-relevant information is public — the skill is knowing where to look, and knowing what not to publish.
+
+## 🚨 Disclaimer
+
+Passive, publicly-available OSINT only — no intrusive or unauthorized activity was performed against any target.
