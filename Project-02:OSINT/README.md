@@ -23,7 +23,17 @@ Reputation	Trust score, malware/phishing checks
 
 ## 🛠️ Toolkit
 
-```DomainTools ICANN Lookup (RDAP) who.is Wappalyzer securityheaders.com VirusTotal crt.sh Wayback Machine ScamAdviser```
+```DomainTools 
+ICANN Lookup
+(RDAP) who.is
+Wappalyzer
+securityheaders.com
+VirusTotal
+crt.sh
+Wayback Machine
+ScamAdviser
+
+```
 
 Every tool used, and exactly what it was used for, is documented in the report's Source Documentation section — each finding is traceable back to where it came from.
 
