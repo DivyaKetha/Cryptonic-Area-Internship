@@ -2,7 +2,6 @@
 
 Public data, private conclusions — an Open Source Intelligence investigation of a live website, using only what's already public.
 
-Project 02 · Cybersecurity / SOC Analyst Track
 
 ## 🎯 Objective
 
