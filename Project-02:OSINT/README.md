@@ -7,7 +7,8 @@ Public data, private conclusions — an Open Source Intelligence investigation o
 
 Investigate a target website using publicly available OSINT resources only — no logins, no scanning, no touching anything not meant to be public — and turn the findings into a professional intelligence report.
 
-## 
+
+## 🧭 What Was Investigated
 
 | Category | What I Looked For |
 |----------|-------------------|
